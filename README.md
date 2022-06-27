@@ -2,7 +2,7 @@
 ## About me 🧷
 - Originally from Kazakhstan 🇰🇿 
 - Engaged in java development approximately 2 years 💻
-- Obtaining a bachelor's degree in CS at HSE University 👨‍🎓
+- Obtaining a bachelor's degree in Computer Science at HSE University 👨‍🎓
 - Speak 🇷🇺 Russian, 🇰🇿 Kazakh and 🇬🇧English
 
 ## Technologies I use 💼
